@@ -90,3 +90,15 @@ img{
     padding: 16px;
     margin-top: 30px;
   }
+
+  .myfooter {
+    align-content: center;
+     margin-top:150px;
+     left: 0;
+     bottom:0;
+     background-color:transparent;
+     color: black;
+     text-align: center;
+     text-decoration: none;
+     font-family: lemon;
+} 
