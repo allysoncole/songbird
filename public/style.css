@@ -151,7 +151,7 @@ form {
     margin-left: 50px;
 }
 .left {
-    width: 600px;
+    width: 45%;
     background-color: transparent;
     height:123px;
     float:left;
@@ -163,6 +163,10 @@ form {
     color: #C04884;
     font-size: 200%;
    margin-top: 75px;   
+}
+.main {
+    padding: 16px;
+    margin-top: 30px;
 }
 .media {
     overflow: hidden;
@@ -254,7 +258,7 @@ form {
     cursor: pointer;
 }
 .right {
-    width: 650px;
+    width: 45%;
     background-color: transparent;
     height:123px;
     float: right;
@@ -420,7 +424,7 @@ text-align: center;
 }
 #wrap {
     width:100%;
-    height:600px;
+    height:700px;
     background-color: transparent;
     background-image: linear-gradient(to bottom left, #1E6870, transparent);
 }

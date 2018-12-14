@@ -56,3 +56,37 @@ img{
     background-color: rgba(255, 255, 255, 0.8);
     padding: 10px;
   }
+
+.topnav {
+    overflow: hidden;
+    background-color: transparent;
+    width:100%;
+    text-align: center;
+    padding: 0px,0px,0px,0px;
+    color: white;
+    position: fixed;
+    top:0;
+    font-size: 20px;
+}
+.topnav a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Maven Pro', Arial, Helvetica, sans-serif;
+}
+.topnav a.active {
+    background-color: #1E6870;
+    color: white;
+}
+.topnav a:hover {
+    background-color: #1E6870;
+    color: white;
+}
+
+.main {
+    padding: 16px;
+    margin-top: 30px;
+  }
