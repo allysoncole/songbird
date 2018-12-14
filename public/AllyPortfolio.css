@@ -5,6 +5,8 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
+    background-size: cover;
+    height: 100%;;
 }
 p{
     font-family: 'Maven Pro', Arial, Helvetica, sans-serif;
@@ -14,7 +16,7 @@ p{
 
 .hL{
     font-family: 'ZCOOL XiaoWei', 'Times New Roman', Times, serif;
-    font-size: 3cm;
+    font-size: 2cm;
     text-align: center;
     margin: 20px;
 }
@@ -36,17 +38,21 @@ li{
 img{
     width: 80%;
 }
+.pad{
+    padding: 10 px;
+}
+
 #dialog-window {
     float: left;
     margin:50px 10px 10px 10px;
-    width: 33%;
+    width: 45%;
     height: 80%;
     border: 1px white solid;
     border-radius: 5px;
   }
-  
   #scrollable-content {
     height: 100%;
     overflow: auto;
     background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
   }
