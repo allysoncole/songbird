@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Maven+Pro|ZCOOL+XiaoWei');
+
+body{
+    background-image: url(./AllysonPortfolioImages/PhFQkdl.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+p{
+    font-family: 'Maven Pro', Arial, Helvetica, sans-serif;
+    margin: 30px;
+    text-align: center;
+}
+
+.hL{
+    font-family: 'ZCOOL XiaoWei', 'Times New Roman', Times, serif;
+    font-size: 3cm;
+    text-align: center;
+    margin: 20px;
+}
+h3{
+    font-family: 'ZCOOL XiaoWei', 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h4{
+    font-family: 'ZCOOL XiaoWei', 'Times New Roman', Times, serif;
+    margin: 10px;
+}
+ul{
+    font-family: 'Maven Pro', Arial, Helvetica, sans-serif;
+}
+li{
+    padding: 5px;
+}
+img{
+    width: 80%;
+}
+#dialog-window {
+    width: 33%;
+    height: 80%;
+    border: 1px white solid;
+    border-radius: 5px;
+  }
+  
+  #scrollable-content {
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(255, 255, 255, 0.8);
+  }
