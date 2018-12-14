@@ -37,6 +37,8 @@ img{
     width: 80%;
 }
 #dialog-window {
+    float: left;
+    margin:50px 10px 10px 10px;
     width: 33%;
     height: 80%;
     border: 1px white solid;
